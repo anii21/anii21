@@ -1,7 +1,7 @@
 
 ####                                        
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&center=true&size=40&width=500&height=70&duration=4000&lines=Statistics+may+be+dull,+but+it+has+its+moments.;"
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&center=true&size=40&width=300&height=50&duration=4000&lines=Statistics+may+be+dull,+but+it+has+its+moments.;"
          style="color: black;" />
 </h1>
 <!--
